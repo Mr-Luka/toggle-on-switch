@@ -14,10 +14,10 @@ body {
   transition: background-color 2s ease-out;
 }
 .on {
-  background-color: white;
+  background-color: rgb(152, 245, 253);
 }
 .off {
-  background-color: black;
+  background-color: rgb(63, 0, 0);
 }
 .switch-plate {
   width: 150px;
